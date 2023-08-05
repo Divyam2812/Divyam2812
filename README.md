@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyam2812
+- 👋 Hi, I’m @Dk-2812
 - 👀 I’m interested in web dev. and Cyber sec.
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
